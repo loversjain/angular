@@ -1,1 +1,1 @@
-
+ng new basic-app
